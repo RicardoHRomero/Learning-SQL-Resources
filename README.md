@@ -36,3 +36,12 @@ This repository contains my notes and solutions to exercises from the book "Sams
 [Notes](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_3/Notes)
 
 [Exercise Solutions](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_3/Challenges)
+
+* ### [Chapter 4: Filtering Data](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_4)
+
+  * Using the WHERE Clause
+  * The WHERE Clause Operators
+
+[Notes](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_4/Notes)
+
+[Exercise Solutions](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_4/Challenges)
