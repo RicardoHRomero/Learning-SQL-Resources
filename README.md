@@ -57,3 +57,13 @@ This repository contains my notes and solutions to exercises from the book "Sams
 [Notes](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_5/Notes)
 
 [Exercise Solutions](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_5/Challenges)
+
+* ### [Chapter 6: Using Wildcard Filtering](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_6)
+
+  * Using the LIKE Operator
+  * Tips for Using Wildcards
+    
+
+[Notes](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_6/Notes)
+
+[Exercise Solutions](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_6/Challenges)
