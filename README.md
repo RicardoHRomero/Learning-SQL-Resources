@@ -45,3 +45,15 @@ This repository contains my notes and solutions to exercises from the book "Sams
 [Notes](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_4/Notes)
 
 [Exercise Solutions](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_4/Challenges)
+
+
+* ### [Chapter 5: Advanced Data Filtering](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_5)
+
+  * Combining WHERE Clauses
+  * Using the IN Operator
+  * Using the NOT Operator
+    
+
+[Notes](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_5/Notes)
+
+[Exercise Solutions](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_5/Challenges)
