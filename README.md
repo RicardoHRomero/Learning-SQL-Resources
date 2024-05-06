@@ -77,3 +77,15 @@ This repository contains my notes and solutions to exercises from the book "Sams
 [Notes](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_7/Notes)
 
 [Exercise Solutions](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_7/Challenges)
+
+
+* ### [Chapter 8: Creating Calculated Fields](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_8)
+
+  * Understanding Functions
+  * Using Functions
+    
+
+[Notes](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_8/Notes)
+
+[Exercise Solutions](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_8/Challenges)
+
