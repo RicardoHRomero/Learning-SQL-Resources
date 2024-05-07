@@ -89,3 +89,15 @@ This repository contains my notes and solutions to exercises from the book "Sams
 
 [Exercise Solutions](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_8/Challenges)
 
+
+* ### [Chapter 9: Summarizing Data](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_9)
+
+  * Using Aggregate Functions
+  * Aggregates on Distinct Values
+  * Combining Aggregate Functions
+    
+
+[Notes](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_9/Notes)
+
+[Exercise Solutions](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_9/Challenges)
+
