@@ -101,3 +101,67 @@ This repository contains my notes and solutions to exercises from the book "Sams
 
 [Exercise Solutions](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_9/Challenges)
 
+* ### [Chapter 10: Grouping Data](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_10)
+
+  * Understanding Data Grouping
+  * Creating Groups
+  * Filtering Groups
+  * Grouping and Sorting
+  * SELECT Clause Ordering
+    
+
+[Notes](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_10/Notes)
+
+[Exercise Solutions](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_10/Challenges)
+
+* ### [Chapter 11: Working with Subqueries](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_11)
+
+  * Understanding Subqueries
+  * Filtering by Subquery
+  * Using Subqueries as Calculated Fields
+
+[Notes](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_11/Notes)
+
+[Exercise Solutions](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_11/Challenges)
+
+
+
+* ### [Chapter 12:  Joining Tables](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_12)
+
+  * Understanding Joins
+  * Creating a Join
+
+[Notes](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_12/Notes)
+
+[Exercise Solutions](https://github.com/RicardoHRomero/Learning-SQL-Resources/tree/main/Chapter_12/Challenges)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
